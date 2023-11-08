@@ -1,6 +1,8 @@
 # Data-Analysis-Project
-A list of Data Analysis Projects to improve my skills
+A list of projects where i conduct some Exploratory Data Analysis
 
-# Project 1 : Bike Sales 
-## Difficulty : Beginner
-<p>A basic excel project where i learn to build Dashboard in Excel by combining the result of differents pivot tables (Tableaux croisés dynamiques) </p>
+# Project 1 : Ghana Phone Market Analysis 
+
+<p>I conduct some analysis on the Ghana Phone Market to gain insights about the Market like how the prices vary from region to region, the most popular brand, etc</p>
+<p>You can find more in the notebook</p>
+<p> You can find the dataset<a href = "https://www.kaggle.com/datasets/redpen12/mobile-phone-market-in-ghana/data">here</a></p>
